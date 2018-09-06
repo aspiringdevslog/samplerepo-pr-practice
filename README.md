@@ -6,3 +6,6 @@ This is a branch used to practice creating branches to the original repository.
 
 # Hello World
 Just some random text to see if I am doing it right.
+
+# Summary
+This is just a practice
